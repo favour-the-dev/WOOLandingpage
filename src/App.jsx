@@ -2,6 +2,10 @@ import Navbar from "./cmponenets/Navbar";
 import Main from "./cmponenets/Main";
 import Features from "./cmponenets/features";
 import Users from "./cmponenets/userReview";
+import Support from "./cmponenets/support";
+import Getstarted from "./cmponenets/Getstarted";
+import Banner from "./cmponenets/banner";
+import Footer from "./cmponenets/Footer";
 import product from '../src/assets/images/product.svg';
 import cmp from '../src/assets/images/stripe.svg';
 import details from '../src/assets/images/details.svg';
@@ -43,6 +47,10 @@ function App() {
         order11 = 'order-1'
         order22 = 'order-2'
       />
+      <Support />
+      <Getstarted />
+      <Banner />
+      <Footer />
     </>
   )
 }

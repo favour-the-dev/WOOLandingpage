@@ -13,12 +13,12 @@ export default function Main(){
 
     return(
         <>
-            <div id="main" className="flex flex-col lg:flex-row items-center header px-4 lg:px-8 h-100dvh overflow-hidden gap-8 lg:gap-0">
+            <div id="main" className="flex flex-col lg:flex-row items-center header px-4 py-4  lg:px-8 md:h-fit lg:h-100dvh overflow-hidden gap-8 lg:gap-0">
                 <div id="text-cont" className="w-full lg:w-1/2 flex flex-col gap-4 mt-8 lg:mt-0">
                     <h1 className="text-custom text-3xl md:text-4xl font-semibold">Build exactly the eCommerce Website you want</h1>
                     <p className="text-md md:text-xl lg:text-md text-gray-600">WooCommerce is a customizeable, open-source eCommerce platform built and developed by Favour Odili.  Get started quickly and make your way</p>
-                    <div className=" flex items-center gap-2">
-                        <button className="bg-text-custom text-gray-100 p-2 px-4 rounded-full uppercase text-sm">Start a new Store</button>
+                    <div className=" flex items-center gap-2 w-full">
+                        <button className="bg-text-custom text-gray-100 p-2 px-4 rounded-full uppercase text-xs lg:text-sm">Start a new Store</button>
                         <span>or</span>
                         <button className="text-custom capitalize font-bold">Customize & extend ></button>
                     </div>
