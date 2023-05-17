@@ -19,12 +19,12 @@ function App() {
       <Navbar />
       <Main />
       <Features 
-        title='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eos?'
-        title2='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eos?'  
-        body=' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio rerum excepturi tempora molestias! Itaque ipsam est voluptates incidunt neque, quisquam sequi deserunt esse, quae distinctio perspiciatis ipsa, et dicta ab?'
-        body2=' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio rerum excepturi tempora molestias! Itaque ipsam est voluptates incidunt neque, quisquam sequi deserunt esse, quae distinctio perspiciatis ipsa, et dicta ab?' 
-        btntext='Lorem ipsum dolor'
-        btntext2='Lorem ipsum dolor' 
+        title='Everything you need to start selling online'
+        title2='Customize and Extend'  
+        body='Add WooCommerce pluggin to any website and set up a new store in minutes. Get secure payments. configurable shopping options. and more out of the box-for free'
+        body2='From Subscriptions to gym classes to luxury cars, WooCommerce is fully customizabble. Add features and extend functionality of your store with official extensions from the WooCommerce Marketplace.' 
+        btntext='Ecommerce for wordpress >'
+        btntext2='Browse Extensions >' 
         ImageSrc={product}
         ImageSrc2={cmp}
         order1 = 'order-two'
@@ -34,12 +34,12 @@ function App() {
       />
       <Users />
       <Features 
-        title='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eos?'
-        title2='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eos?'  
-        body=' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio rerum excepturi tempora molestias! Itaque ipsam est voluptates incidunt neque, quisquam sequi deserunt esse, quae distinctio perspiciatis ipsa, et dicta ab?'
-        body2=' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio rerum excepturi tempora molestias! Itaque ipsam est voluptates incidunt neque, quisquam sequi deserunt esse, quae distinctio perspiciatis ipsa, et dicta ab?' 
-        btntext='Lorem ipsum dolor'
-        btntext2='Lorem ipsum dolor' 
+        title='Develop Without Limits'
+        title2='Leran With a Global Community'  
+        body='WooCommerce is developer friendly, too. Built with REST API, WOO commerce is scalable, and integrate with  virtually any service. Deasign a complexstore from scratch, extend a store for a client, or simply add a singlen product to website your store, your way'
+        body2='WooComerce is one of the fastest growing eCommerce communities. Were proud hat the helpfulness of our community and a wealth of online resources are frequently cited as reasons our users love it. There are 80+ meetups worldwide' 
+        btntext='ecommerce for wordpress'
+        btntext2='join a meetup' 
         ImageSrc={details}
         ImageSrc2={community}
         order1 = 'order-two'

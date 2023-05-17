@@ -18,7 +18,7 @@ export default function Main(){
                     <h1 className="text-custom text-3xl md:text-4xl font-semibold">Build exactly the eCommerce Website you want</h1>
                     <p className="text-md md:text-xl lg:text-md text-gray-600">WooCommerce is a customizeable, open-source eCommerce platform built and developed by Favour Odili.  Get started quickly and make your way</p>
                     <div className=" flex items-center gap-2 w-full">
-                        <button className="bg-text-custom text-gray-100 p-2 px-4 rounded-full uppercase text-xs lg:text-sm">Start a new Store</button>
+                        <button className="bg-text-custom text-gray-100 p-2 px-4 rounded-full uppercase text-xs lg:text-sm shadow-md">Start a new Store</button>
                         <span>or</span>
                         <button className="text-custom capitalize font-bold">Customize & extend ></button>
                     </div>

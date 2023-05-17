@@ -3,7 +3,7 @@ const Footer = ()=>{
         <>
             <div className="h-fit p-8 w-full text-gray-900">
                 <div className="w-full lg:w-2/3 mx-auto flex flex-col items-center justify-between">
-                    <div className="w-full flex flex-col lg:flex-row items-center lg:items-start  py-8 my-2 border-b-2 justify-between">
+                    <div className="w-full flex flex-col lg:flex-row items-center lg:items-start gap-4 md:gap-0  py-8 my-2 border-b-2 justify-between">
                         <div className="flex flex-wrap justify-around lg:justify-between w-full lg:w-1/2 mx-auto">
                             <div className="flex flex-col gap-2">
                                 <h4 className="font-bold uppercase my-4">Who We are</h4>
